@@ -112,10 +112,8 @@
                 "sha256:9d81515f2b5b27051910996e1e860b1332e354d9e7bcf30c98f21dcb6713e0dd"
             ],
             "version": "==3.3.1"
-        },
-	"djangorestframework":{
-	    "version":  "==3.7.7"
-	}
+        }
+	
     },
     "develop": {}
 }
